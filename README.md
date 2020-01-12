@@ -9,7 +9,7 @@
 使用小贴士：
 1. 强烈建议在Visio画图的时候开启网格线。
 
-![image](https://raw.githubusercontent.com/CaiZhongheng1987/library/master/pic/%E7%BD%91%E6%A0%BC%E7%BA%BF.png)
+![ad](https://raw.githubusercontent.com/CaiZhongheng1987/library/master/pic/%E7%BD%91%E6%A0%BC%E7%BA%BF.png)
 
 2. 本定点图元都是在缩放级别为100%的情况下绘制而成， 每个图元的大小和连接点均照此缩放比例匹配；编写方案时，也强烈建议在100%缩放比例下绘制。
 
