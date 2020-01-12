@@ -2,7 +2,8 @@
 包含visio定点图元和各种代码的lib库。
 
 ## Visio图元v3.0介绍
-本图元的作者是Zhongheng Cai和Hongbo Zhang。
+本图元的作者是Zhongheng Cai和Hongbo Zhang。图元示意图如下：
+![image](https://raw.githubusercontent.com/CaiZhongheng1987/library/master/pic/%E5%9B%BE%E5%85%83%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
 使用小贴士：
 1. 强烈建议在visio画图的时候开启网格线。
 2. 本定点图元都是在缩放级别为100%的情况下绘制而成， 每个图元的大小和连接点均照此缩放比例匹配；编写方案时，也强烈建议在100%缩放比例下绘制。
