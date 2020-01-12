@@ -3,7 +3,9 @@
 
 ## Visio定点图元v3.0介绍
 本定点图元的作者是Zhongheng Cai和[Hongbo Zhang](https://github.com/Zhang-Hongbo83)。图元示意图如下：
+
 ![image](https://raw.githubusercontent.com/CaiZhongheng1987/library/master/pic/%E5%9B%BE%E5%85%83%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
+
 使用小贴士：
 1. 强烈建议在Visio画图的时候开启网格线。
 
